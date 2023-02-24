@@ -1,0 +1,163 @@
+{
+	"title": {
+		"media": {
+			"url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Bing_logo_%282016%29.svg",
+			"caption": "Bing 2016 Logo",
+			"credit": "<a href='https://upload.wikimedia.org/wikipedia/commons/c/c7/Bing_logo_%282016%29.svg'>Wikipedia Commons</a>"
+		},
+		"text": {
+			"headline": "A timeline of Bing-AI:<h2> What Microsoft knew and when they knew it<h2>",
+			"text": "<p>OpenAI's ChatGPT took the world by storm and was quickly implemented into Bing search. As the uncanny abilities of Large Language AI Models (LLM's) continue to usher excitement, concerns remain about their effects in the real-world</p>"
+		}
+	},
+	"events": [
+		{
+			"media": {
+				"url": "https://upload.wikimedia.org/wikipedia/en/6/6c/Tay_bot_logo.jpg",
+				"caption": "Tay's (bot) Twitter Profile Image",
+				"credit": "Cissy Houston photo:<a href='http://www.flickr.com/photos/11447043@N00/418180903/'>Tom Marcello</a><br/><a href='http://commons.wikimedia.org/wiki/File%3ADionne_Warwick_television_special_1969.JPG'>Dionne Warwick: CBS Television via Wikimedia Commons</a>"
+			},
+			"start_date": {
+				"month": "3",
+				"day": "23",
+				"year": "2016"
+			},
+			"text": {
+				"headline": "Microsoft releases chatbot Tay",
+				"text": "<p>Under the malign influence from some users, it quickly begins to spout racist rhetoric. Tay is retracted 16 hours later, for being a “racist asshole”</p>"
+			}
+		},
+        {
+			"media": {
+				"url": "https://s.abcnews.com/images/Entertainment/whitney-cissy-dionne-gty-er-180711_hpEmbed_21x16_992.jpg",
+				"caption": "Houston's with her mother and Gospel singer, Cissy Houston and cousin Dionne Warwick.",
+				"credit": "Cissy Houston photo:<a href='http://www.flickr.com/photos/11447043@N00/418180903/'>Tom Marcello</a><br/><a href='http://commons.wikimedia.org/wiki/File%3ADionne_Warwick_television_special_1969.JPG'>Dionne Warwick: CBS Television via Wikimedia Commons</a>"
+			},
+			"start_date": {
+				"month": "6",
+				"day": "21",
+				"year": "2022"
+			},
+			"text": {
+				"headline": "Microsoft releases their Responsible AI Standard",
+				"text": "<p>Microsoft releases their Responsible AI Standard, “an important step in [the] journey to develop better, more trustworthy AI”.</p>"
+			}
+		},
+        {
+			"media": {
+				"url": "https://s.abcnews.com/images/Entertainment/whitney-cissy-dionne-gty-er-180711_hpEmbed_21x16_992.jpg",
+				"caption": "Houston's with her mother and Gospel singer, Cissy Houston and cousin Dionne Warwick.",
+				"credit": "GM Cissy Houston photo:<a href='http://www.flickr.com/photos/11447043@N00/418180903/'>Tom Marcello</a><br/><a href='http://commons.wikimedia.org/wiki/File%3ADionne_Warwick_television_special_1969.JPG'>Dionne Warwick: CBS Television via Wikimedia Commons</a>"
+			},
+			"start_date": {
+				"month": "11",
+				"day": "30",
+				"year": "2022"
+			},
+			"text": {
+				"headline": "OpenAI release ChatGPT to incredible acclaim",
+				"text": "<p></p>"
+			}
+		},
+        {
+			"media": {
+				"url": "https://s.abcnews.com/images/Entertainment/whitney-cissy-dionne-gty-er-180711_hpEmbed_21x16_992.jpg",
+				"caption": "Houston's with her mother and Gospel singer, Cissy Houston and cousin Dionne Warwick.",
+				"credit": "GM Cissy Houston photo:<a href='http://www.flickr.com/photos/11447043@N00/418180903/'>Tom Marcello</a><br/><a href='http://commons.wikimedia.org/wiki/File%3ADionne_Warwick_television_special_1969.JPG'>Dionne Warwick: CBS Television via Wikimedia Commons</a>"
+			},
+			"start_date": {
+				"month": "11",
+				"day": "30",
+				"year": "2022"
+			},
+			"text": {
+				"headline": "Microsoft President Brad Smith positions Microsoft as the responsible AI company",
+				"text": "<p>Microsoft President Brad Smith, an attorney who was once their General Counsel, <a href='https://blogs.microsoft.com/on-the-issues/2023/02/02/responsible-ai-chatgpt-artificial-intelligence'>positions Microsoft as the responsible AI company</a>, with the first boldfaced principle being “First, we must ensure that AI is built and used responsibly and ethically”, and noting “First, these issues are too important to be left to technologists alone.”</p>"
+			}
+		},
+        {
+			"media": {
+				"url": "https://s.abcnews.com/images/Entertainment/whitney-cissy-dionne-gty-er-180711_hpEmbed_21x16_992.jpg",
+				"caption": "Houston's with her mother and Gospel singer, Cissy Houston and cousin Dionne Warwick.",
+				"credit": "GM Cissy Houston photo:<a href='http://www.flickr.com/photos/11447043@N00/418180903/'>Tom Marcello</a><br/><a href='http://commons.wikimedia.org/wiki/File%3ADionne_Warwick_television_special_1969.JPG'>Dionne Warwick: CBS Television via Wikimedia Commons</a>"
+			},
+			"start_date": {
+				"month": "11",
+				"day": "30",
+				"year": "2022"
+			},
+			"text": {
+				"headline": "Bing Chat is quietly released in India",
+				"text": "test"
+			}
+		},
+        {
+			"media": {
+				"url": "https://s.abcnews.com/images/Entertainment/whitney-cissy-dionne-gty-er-180711_hpEmbed_21x16_992.jpg",
+				"caption": "Houston's with her mother and Gospel singer, Cissy Houston and cousin Dionne Warwick.",
+				"credit": "GM Cissy Houston photo:<a href='http://www.flickr.com/photos/11447043@N00/418180903/'>Tom Marcello</a><br/><a href='http://commons.wikimedia.org/wiki/File%3ADionne_Warwick_television_special_1969.JPG'>Dionne Warwick: CBS Television via Wikimedia Commons</a>"
+			},
+			"start_date": {
+				"month": "2",
+				"day": "6",
+				"year": "2023"
+			},
+			"text": {
+				"headline": "Bing Chat is released globally",
+				"text": "<p>In tandem with OpenAI, to enormous acclaim</p>"
+			}
+		},
+        {
+			"media": {
+				"url": "https://s.abcnews.com/images/Entertainment/whitney-cissy-dionne-gty-er-180711_hpEmbed_21x16_992.jpg",
+				"caption": "Houston's with her mother and Gospel singer, Cissy Houston and cousin Dionne Warwick.",
+				"credit": "GM Cissy Houston photo:<a href='http://www.flickr.com/photos/11447043@N00/418180903/'>Tom Marcello</a><br/><a href='http://commons.wikimedia.org/wiki/File%3ADionne_Warwick_television_special_1969.JPG'>Dionne Warwick: CBS Television via Wikimedia Commons</a>"
+			},
+			"start_date": {
+				"month": "2",
+				"day": "15",
+				"year": "2023"
+                
+			},
+			"text": {
+				"headline": "Bing Chat goes wild",
+				"text": "<p>Internet goes wild with reports of Bing chat (code named Sydney) going off the rails</p>"
+			}
+		},
+        {
+			"media": {
+				"url": "https://www.youtube.com/watch?v=pBtD2JUXfLU",
+				"caption": "Houston's with her mother and Gospel singer, Cissy Houston and cousin Dionne Warwick.",
+				"credit": "Jensen Harris via <a href='https://www.youtube.com/watch?v=pBtD2JUXfLU'>YouTube</a>"
+			},
+			"start_date": {
+				"month": "2",
+				"day": "18",
+				"year": "2023"
+                
+			},
+			"text": {
+				"headline": "Bing's Chatbot gets Jailbroken",
+				"text": "<p>Utilizing prompts to undermine its guardrails, ex-Microsoft, current Chief Expeirence officer at Textie, <a href='https://jensenharris.com/'>Jensen Harris</a> uses the ChatGPT-powered chatbot to lie, cheat, and relay potentially nefarious information </p>"
+			}
+		},
+        {
+			"media": {
+				"url": "https://www.youtube.com/watch?v=pBtD2JUXfLU",
+				"caption": "Houston's with her mother and Gospel singer, Cissy Houston and cousin Dionne Warwick.",
+				"credit": "Jensen Harris via <a href='https://www.youtube.com/watch?v=pBtD2JUXfLU'>YouTube</a>"
+			},
+			"start_date": {
+				"month": "2",
+				"day": "18",
+				"year": "2023"
+                
+			},
+			"text": {
+				"headline": "A Work in Progress",
+				"text": "<p>Microsoft, Google, Meta, and Amazon are racing to get ahead with their own LLM, and in doing so are ignoring both real and expected issues. <br>What is the price of overselling the capacity of these technologies?</p>"
+			}
+		}
+        
+	]
+}
